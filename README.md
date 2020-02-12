@@ -46,4 +46,8 @@ import_tables:
 
 重新部署即可。
 
+## License
+
+Public domain.
+
 </div>

@@ -3,7 +3,7 @@
 
 ---
 name: symbolic
-version: "2020.02.12"
+version: "2020.03.25"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -143,3 +143,10 @@ use_preset_vocabulary: false
 大正
 明治
 令和
+
+左右
+上下
+左上
+右上
+右下
+左下

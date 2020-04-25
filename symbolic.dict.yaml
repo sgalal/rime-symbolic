@@ -3,28 +3,59 @@
 
 ---
 name: symbolic
-version: "2020.03.25"
+version: "2020.04.25"
 sort: by_weight
 use_preset_vocabulary: false
 ...
 
-阿爾法
-貝塔
-伽瑪
-德爾塔
-艾普西龍
-澤塔
-伊塔
-西塔
-約塔
-卡帕
-拉姆達
-克西
-奧密克戎
-西格馬
-宇普西龍
-普西
-奧米伽
+α	alpha
+Α	alpha
+β	beta
+Β	beta
+γ	gamma
+Γ	gamma
+δ	delta
+Δ	delta
+ε	epsilon
+Ε	epsilon
+ζ	zeta
+Ζ	zeta
+η	eta
+Η	eta
+θ	theta
+Θ	theta
+ι	iota
+Ι	iota
+κ	kappa
+Κ	kappa
+λ	lambda
+Λ	lambda
+μ	mu
+Μ	mu
+ν	nu
+Ν	nu
+ξ	xi
+Ξ	xi
+ο	omicron
+Ο	omicron
+π	pi
+Π	pi
+ρ	rho
+Ρ	rho
+σ	sigma
+Σ	sigma
+τ	tau
+Τ	tau
+υ	upsilon
+Υ	upsilon
+φ	phi
+Φ	phi
+χ	chi
+Χ	chi
+ψ	psi
+Ψ	psi
+ω	omega
+Ω	omega
 
 十一
 十二

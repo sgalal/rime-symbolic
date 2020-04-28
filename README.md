@@ -1,5 +1,3 @@
-<div lang="zh-Hant">
-
 # rime-symbolic
 
 Rime 符號輸入方案
@@ -42,12 +40,10 @@ import_tables:
   - symbolic
 ```
 
-將 `opencc` 文件夾中的文件放入 Rime 程序文件夾中的 opencc 文件夾中。
+將 `opencc` 文件夾中的文件放入 Rime 用户文件夾中的 `opencc` 文件夾中。
 
 重新部署即可。
 
 ## License
 
 Public domain.
-
-</div>

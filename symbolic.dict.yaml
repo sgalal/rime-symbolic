@@ -3,59 +3,10 @@
 
 ---
 name: symbolic
-version: "2020.04.25"
+version: "2020.04.28"
 sort: by_weight
 use_preset_vocabulary: false
 ...
-
-α	alpha
-Α	alpha
-β	beta
-Β	beta
-γ	gamma
-Γ	gamma
-δ	delta
-Δ	delta
-ε	epsilon
-Ε	epsilon
-ζ	zeta
-Ζ	zeta
-η	eta
-Η	eta
-θ	theta
-Θ	theta
-ι	iota
-Ι	iota
-κ	kappa
-Κ	kappa
-λ	lambda
-Λ	lambda
-μ	mu
-Μ	mu
-ν	nu
-Ν	nu
-ξ	xi
-Ξ	xi
-ο	omicron
-Ο	omicron
-π	pi
-Π	pi
-ρ	rho
-Ρ	rho
-σ	sigma
-Σ	sigma
-τ	tau
-Τ	tau
-υ	upsilon
-Υ	upsilon
-φ	phi
-Φ	phi
-χ	chi
-Χ	chi
-ψ	psi
-Ψ	psi
-ω	omega
-Ω	omega
 
 十一
 十二

@@ -4,6 +4,8 @@ rime 符號輸入方案
 
 ![demo](demo/demo.png)
 
+簡化字版：[sgalal/rime-symbolic-simp](https://github.com/sgalal/rime-symbolic-simp)
+
 ## 用法
 
 在 rime 用户資料夾中加入 `symbolic.dict.yaml`。

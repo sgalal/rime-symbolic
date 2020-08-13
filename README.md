@@ -1,14 +1,14 @@
 # rime-symbolic
 
-Rime 符號輸入方案
+rime 符號輸入方案
 
 ![demo](demo/demo.png)
 
 ## 用法
 
-在 Rime 用户文件夾中加入 `symbolic.dict.yaml`。
+在 rime 用户資料夾中加入 `symbolic.dict.yaml`。
 
-在常用方案的 `.schema.yaml` 中加入：
+在常用方案的 `*.schema.yaml` 中加入：
 
 1. `switches` 中加入
 
@@ -33,17 +33,13 @@ symbolic:
   tips: all
 ```
 
-在常用方案的 `.dict.yaml` 中加入：
+在常用方案的 `*.dict.yaml` 中加入：
 
 ```yaml
 import_tables:
   - symbolic
 ```
 
-將 `opencc` 文件夾中的文件放入 Rime 用户文件夾中的 `opencc` 文件夾中。
+將 `opencc` 資料夾中的文件放入 rime 用户資料夾中的 `opencc` 資料夾中。
 
 重新部署即可。
-
-## License
-
-Public domain.
